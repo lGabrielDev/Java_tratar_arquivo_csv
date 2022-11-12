@@ -1,7 +1,7 @@
 # Tratar um arquivo CSV
 
 ## Introdução
-Arquivos com extenção "*CSV*" são arquivos de texto simples que armazenam informações de planilhas e tabelas.
+Arquivos com extenção "**CSV**" são arquivos de texto simples que armazenam informações de planilhas e tabelas.
 
 Aqui temos um exemplo de um arquivo **CSV**:
 
@@ -9,9 +9,8 @@ Aqui temos um exemplo de um arquivo **CSV**:
 
 
 Perceba que os campos são separados por um caracter. <br>
-Geralmente esse caractere é uma vírgul*a ou ponto e vírgula ->  **","**  ou  **";"**
-
-
+Geralmente esse caractere é uma vírgula ou ponto e vírgula ->  **","**  ou  **";"**  .
+<br>
 
 Aqui vemos esse mesmo arquivo em uma planlha:
 
@@ -21,12 +20,12 @@ Aqui vemos esse mesmo arquivo em uma planlha:
 Quando estamos trabalhando com um arquivo com poucas linhas, fica fácil manusear. Mas e se tivéssemos um arquivo com 10.000 linhas?
 Seria muito mais difícil tratar esse arquivo.
 
-<br>
+
 
 Com esse programa, o usuario conseguirá tratar um arquivo **CSV**, deixando a leitura do documento mais amigável. <br>
 De que forma? <br>
 Removendo todos os caracteres de separação de campo e dando um espaçamento entre eles.
-
+<br>
 
 
 Documento não tratado: <br>
@@ -36,16 +35,14 @@ Documento não tratado: <br>
 
 Documento tratado: <br> 
 ![Imagem de um arquivo csv tratado](./img/arquivo_tratado.jpg)
+
+Quando estamos trabalhando com um arquivo com poucas linhas, fica fácil manusear. Mas e se tivéssemos um arquivo com 10.000 linhas?
+Seria muito mais difícil tratar esse arquivo.
 <hr>
-
-<br>
-
 
 ## Requisitos para executar o programa
 * Ter o **[JDK](https://docs.oracle.com/en/java/javase/11/install/installation-jdk-linux-platforms.html#GUID-737A84E4-2EFF-4D38-8E60-3E29D1B884B8)** instalado
 <hr>
-<br>
-
 
 ## Passo a passo para executar o programa
 
@@ -61,7 +58,7 @@ Documento tratado: <br>
 Com esse comando, será feito o download dos arquivos necessários funcionar o programa.
 
 
-3. Acesse o diretório do programa:
+3. Acesse o diretório do programa utilizando o command:
 
 ```console
 
