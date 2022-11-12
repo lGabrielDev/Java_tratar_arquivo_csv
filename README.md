@@ -1,11 +1,11 @@
-# Tratar um arquivo CSV
+# Tratando um arquivo CSV
 
 ## Introdução
 Arquivos com extenção "**CSV**" são arquivos de texto simples que armazenam informações de planilhas e tabelas.
 
 Aqui temos um exemplo de um arquivo **CSV**:
 
-![imagem de um arquivo csv](./img/exemplo1.jpg);
+![imagem de um arquivo csv](./img/exemplo1.jpg)
 
 
 Perceba que os campos são separados por um caracter. <br>
